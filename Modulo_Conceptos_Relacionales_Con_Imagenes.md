@@ -154,9 +154,9 @@ Puede crear muchos índices en una tabla. Por lo tanto, si también desea encont
 
 ### Diagramas e Ilustraciones de la Unidad
 
-![Diagrama que representa el concepto de una vista en una base de datos.](./Descripción de objetos de base de datos - Training _ Microsoft Learn_files/view.png)
+![Diagrama que representa el concepto de una vista en una base de datos.](index.png)
 
-![Captura de pantalla de un índice de ejemplo que crea una estructura basada en árboles.](./Descripción de objetos de base de datos - Training _ Microsoft Learn_files/index.png)
+![Captura de pantalla de un índice de ejemplo que crea una estructura basada en árboles.](view.png)
 
 ---
 
