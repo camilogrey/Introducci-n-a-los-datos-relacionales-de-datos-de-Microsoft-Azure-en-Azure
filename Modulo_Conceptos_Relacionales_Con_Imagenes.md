@@ -48,7 +48,7 @@ En algunos casos, una clave (principal o externa) se puede definir como una clav
 
 ### Diagramas e Ilustraciones de la Unidad
 
-![Diagrama en el que se muestran datos de orden en un esquema tabular normalizado.](./Comprensión de la normalización - Training _ Microsoft Learn_files/normalized-data.png)
+![Diagrama en el que se muestran datos de orden en un esquema tabular normalizado.](normalized-data.png)
 
 ---
 
