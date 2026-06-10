@@ -20,7 +20,7 @@ Cada columna almacena datos de un tipo de datos específico. Por ejemplo, es pro
 
 ### Diagramas e Ilustraciones de la Unidad
 
-![Diagrama que muestra un ejemplo de un modelo relacional, que muestra tablas para clientes, productos, pedidos y elementos de línea.](./Comprender los datos relacionales - Training _ Microsoft Learn_files/relational-tables.png)
+![Diagrama que muestra un ejemplo de un modelo relacional, que muestra tablas para clientes, productos, pedidos y elementos de línea.](relational-tables.png)
 
 ---
 
